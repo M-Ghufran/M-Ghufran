@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="hello-world.gif" style="width: 550px; height: 100px; object-fit: cover; object-position: -30% 0;" alt="Hello World" />
+    <img src="./assets/hello-world.gif" style="width: 550px; height: 100px; object-fit: cover; object-position: -30% 0;" alt="Hello World" />
 </p>
 
 <h1 align="center">
